@@ -7,7 +7,7 @@ from tabulate import tabulate
 
 # 初始化模型
 model = SentenceTransformer('all-MiniLM-L6-v2')
-DB_PATH = "/Users/xks/Desktop/files/sync_file/MyRepo/tmp/PathVec/db.json"
+DB_PATH = "/usr/local/PathVec/db.json"
 
 # 读取或初始化数据库
 try:
