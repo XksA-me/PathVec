@@ -23,7 +23,7 @@
 
 ```bash
 cd /usr/local
-git clone 
+git clone https://github.com/XksA-me/PathVec
 conda create -n pv python=3.10
 conda activate pv
 cd PathVec
